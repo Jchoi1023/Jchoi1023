@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Jchoi1023/Jchoi1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jihye Choi  
+🎓 Master's Student in **Business Analytics & AI** at the University of Texas at Dallas  
+💡 Passionate about uncovering insights from data and building actionable dashboards. 
 
-Here are some ideas to get you started:
+### 🧠 Technical Skills
+| Category | Tools / Languages |
+|-----------|-------------------|
+| Programming | Python (pandas, numpy, matplotlib, plotly) |
+| Data Visualization | Streamlit, Tableau, Excel |
+| Databases | SQL (MySQL, PostgreSQL) |
+| Statistics & Modeling | Regression, Hypothesis Testing, Classification |
+| Cloud & Tools | AWS S3, EMR, GitHub, Jupyter Notebook |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Expanding skills in **Data Engineering & Analytics**
